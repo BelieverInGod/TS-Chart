@@ -10,7 +10,9 @@
     "@types/node": "^16.11.52",
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
+    "faker": "^6.6.6",
     "react": "^18.2.0",
+    "react-chartjs-2": "^4.3.1",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
@@ -40,6 +42,7 @@
     ]
   },
   "devDependencies": {
+    "@types/faker": "^6.6.9",
     "@typescript-eslint/eslint-plugin": "^5.33.1",
     "eslint": "^8.22.0",
     "eslint-config-prettier": "^8.5.0",
